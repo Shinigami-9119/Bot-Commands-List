@@ -7,7 +7,7 @@ Important Stuff You Should Know:
 2. `[ ]` text enclosed in brackets means that it is a necessary argument/option, and must be specified **always**.
 3. `( )` text enclosed in parenthesis means that it is optional, and the command would work regardless it was specified or not, albeit in a different manner, to be more specific, it'd resort to the _default_ options.
 4. All of the commands mentioned below are to be **preceded by `-`**, for the Discord Bot to recognize them as commands.
-5. Credit to Partman for the bot. https://github.com/PartMan7
+5. Credit to <a href="https://github.com/PartMan7">Partman</a> for the bot.
 
 Discord Commands
 =============
