@@ -13,8 +13,8 @@ Discord Commands
 =============
 
 - `anime [anime name]` - Display's a embed message with Anime related info.
-- `colors display` - Display's a list of colors.
-- `colors search [color name]` - Display's the hex code to be used for Server Roles.
+- `colors [display]` - Display's a list of colors.
+- `colors [search] [color name]` - Display's the hex code to be used for Server Roles.
 
 
 Other Commands on this bot is credit to Partman for making
